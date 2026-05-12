@@ -143,9 +143,9 @@
 
 ## 联系我们
 
-- **QQ交流群**：[1016741666]
+- **QQ交流群**：1016741666
 - **官方网站**：[网站地址]
-- **GitHub**：https://github.com/ArkInfinityServer
+- **GitHub**：https://github.com/TangColin/ARKInfinityBot
 
 ---
 
